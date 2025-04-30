@@ -11,6 +11,7 @@ This project implements a simple Chess AI that plays full games using two differ
 - Visual chess board rendering using SVG-to-PNG conversion.
 - Game playback visualization using Pygame.
 - Gameplay recording using OpenCV and saved as video.
+- Video and slides are uploaded seperately in github repo
 
 ---
 
